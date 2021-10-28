@@ -1,0 +1,52 @@
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.AdminManagement.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmAddSubject.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmClass.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmCreateStudent.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.frmLogin.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.ListAccount.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Properties.Resources.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.GenerateResource.cache
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.CoreCompileInputs.cache
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\bin\Debug\ProjectAttendence.exe.config
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\bin\Debug\ProjectAttendence.exe
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\bin\Debug\ProjectAttendence.pdb
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.exe
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.pdb
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmAddTimetable.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmAddtoClass.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmListTimetableOfStudent.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmTeacher.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmAttendence.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csprojAssemblyReference.cache
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.FrmAddMoreAccount.resources
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.CopyComplete
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.ResolveComReference.cache
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\bin\Debug\stdole.dll
+C:\Users\svdtx\source\repos\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.FrmProfile.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\bin\Debug\ProjectAttendence.exe.config
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\bin\Debug\ProjectAttendence.exe
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\bin\Debug\ProjectAttendence.pdb
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\bin\Debug\stdole.dll
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.ResolveComReference.cache
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.AdminManagement.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.FrmAddMoreAccount.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmAddSubject.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmAddTimetable.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmAddtoClass.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmAttendence.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmClass.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmCreateStudent.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmListTimetableOfStudent.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.frmLogin.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.FrmProfile.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.frmTeacher.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Frm.ListAccount.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.Properties.Resources.resources
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.GenerateResource.cache
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.CoreCompileInputs.cache
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.CopyComplete
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.exe
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.pdb
+E:\Semester 5\PRN292\Project\ProjectAttendence\ProjectAttendence\obj\Debug\ProjectAttendence.csproj.AssemblyReference.cache
